@@ -1,0 +1,23 @@
+{
+  "name": "tpgbowertest2",
+  "authors": [
+    "xavi <xavierg@theprojectgroup.com>"
+  ],
+  "version": "1.0.0",
+  "description": "tpg bower test 2",
+  "main": "index.js",
+  "keywords": [
+    "tpg",
+    "bower",
+    "test"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
